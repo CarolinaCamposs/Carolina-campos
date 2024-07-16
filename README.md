@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou Carolina
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CarolinaCamposs&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ### 📚 Sobre Mim:
 Atualmente estou cursando Sistemas de Informação na FMG - 8º período. Trabalho como estagiário no INSS com suporte de TI.
@@ -15,7 +15,7 @@ Atualmente estou cursando Sistemas de Informação na FMG - 8º período. Trabal
 ![Testes](https://img.shields.io/badge/-Testes-000?style=for-the-badge&logo=testing-library)
 
 ### 📊 Estatísticas do GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=bear)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarolinaCamposs&show_icons=true&theme=bear)
 
 ### 🌐 Conecte-se Comigo:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/carolina-campos-621311204)
