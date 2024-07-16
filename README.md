@@ -3,7 +3,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CarolinaCamposs&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ### 📚 Sobre Mim:
-Atualmente estou cursando Sistemas de Informação na FMG - 8º período. Trabalho como estagiário no INSS com suporte de TI.
+Atualmente estou cursando Sistemas de Informação na FMG - 8º período. Trabalho como estagiária no INSS com suporte de TI.
 
 ### 🛠️ Linguagens e Ferramentas:
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
