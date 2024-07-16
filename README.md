@@ -23,7 +23,8 @@ Atualmente estou cursando Sistemas de Informação na FMG - 8º período. Trabal
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 📊 Estatísticas do GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarolinaCamposs&show_icons=true&theme=bear)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarolinaCamposs&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 ### 🌐 Conecte-se Comigo:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/carolina-campos-621311204)
