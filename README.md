@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou Carolina
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CarolinaCamposs&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CarolinaCamposs&theme=radical&hide_border=true&border_radius=15&locale=pt_BR&card_width=400&card_height=100)](https://git.io/streak-stats)
 
 ### 📚 Sobre Mim:
 Atualmente estou cursando Sistemas de Informação na FMG - 8º período. Trabalho como estagiária no INSS com suporte de TI.
