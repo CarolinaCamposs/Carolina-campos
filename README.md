@@ -18,7 +18,7 @@ Atualmente estou cursando Sistemas de Informação na FMG - 8º período. Trabal
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
 ### 🌱 Atualmente Aprendendo:
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 
 ### 📊 Estatísticas do GitHub:
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarolinaCamposs&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
